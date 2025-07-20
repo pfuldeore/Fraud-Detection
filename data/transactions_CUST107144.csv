@@ -1,0 +1,6 @@
+transaction_id,customer_id,transaction_date,transaction_type,transaction_amount,merchant_category,merchant_name,transaction_location,account_balance_after_transaction,is_international_transaction,device_used,ip_address,transaction_status,transaction_source_destination,transaction_notes,fraud_flag
+ba998721-a612-4e0a-8354-46d001e9c39c,CUST107144,2022-01-03 23:52:00,UPI,1400.0,Travel,Chauhan LLC,"Giridih, Manipur",12858.0,0,Web,176.48.222.166,Success,CJPZ11841095072972,Payment for Travel,0
+2cc9ed5f-3ab8-4e7e-a0c6-c44e68cd8c44,CUST107144,2022-01-18 13:24:00,Fund Transfer,6100.0,Healthcare,Ravel-Dhar,"Jorhat, Tamil Nadu",0.0,0,Web,192.54.222.44,Success,FIQD14744410905071,Payment for Healthcare,0
+70ada63a-1d0f-4a02-9659-3a3d55c2e6aa,CUST107144,2022-01-19 20:42:00,Credit Card,6800.0,Utilities,"Saxena, Lal and Bhardwaj","Mahbubnagar, Karnataka",33057.0,0,POS,72.55.24.120,Success,QXOQ56215322214405,Payment for Utilities,0
+872098de-8934-471b-a68c-113d70bdbcf5,CUST107144,2022-01-29 10:23:00,Credit Card,8900.0,Cash Withdrawal,Kurian-Shenoy,"Visakhapatnam, Tripura",40590.0,0,POS,138.228.133.17,Success,KMFN03229179882472,Payment for Cash Withdrawal,0
+06e72a2a-81db-4fba-8aec-8ab1a01f3611,CUST107144,2022-01-03 15:45:00,Bill Payment,400.0,Dining,"Johal, Warrior and Verma","Sikar, Tamil Nadu",15807.0,0,POS,65.77.167.145,Success,WURJ44892809735784,Payment for Dining,0
